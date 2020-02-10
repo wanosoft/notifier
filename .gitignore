@@ -1,1 +1,9 @@
 /example/build/*
+.packages
+pubspec.lock
+.dart_tool/package_config.json
+example/.packages
+example/pubspec.lock
+example/.dart_tool/package_config.json
+example/android/local.properties
+example/ios/Runner/GeneratedPluginRegistrant.h
